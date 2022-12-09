@@ -1,2 +1,4 @@
 # appdev
-My first repository
+## My first repository
+### My favorite series
+Start Up
